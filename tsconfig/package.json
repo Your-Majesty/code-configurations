@@ -1,0 +1,31 @@
+{
+  "name": "@yourmajestyco/tsconfig",
+  "version": "0.0.1",
+  "description": "Basic TypeScript configuration package",
+  "keywords": [
+    "typings",
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "homepage": "https://github.com/Your-Majesty/code-configurations/tree/main/tsconfig#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Your-Majesty/code-configurations.git"
+  },
+  "license": "MIT",
+  "author": "Dodi Raditya <dodi@yourmajesty.co>",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
