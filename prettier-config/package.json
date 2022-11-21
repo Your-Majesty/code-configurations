@@ -1,0 +1,28 @@
+{
+  "name": "@yourmajestyco/prettier-config",
+  "version": "0.0.1",
+  "description": "Shared Prettier configuration package",
+  "keywords": [
+    "sdk",
+    "prettier",
+    "prettier-config"
+  ],
+  "homepage": "https://github.com/Your-Majesty/code-configurations/tree/main/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Your-Majesty/code-configurations.git"
+  },
+  "license": "MIT",
+  "author": "Dodi Raditya <dodi@yourmajesty.co>",
+  "main": "prettierrc.json",
+  "files": [
+    "prettierrc.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^2.7.1",
+  }
+}
