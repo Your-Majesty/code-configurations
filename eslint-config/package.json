@@ -1,0 +1,28 @@
+{
+  "name": "@yourmajestyco/eslint-config",
+  "version": "0.0.1",
+  "description": "Basic eslint configuration package",
+  "keywords": [
+    "eslint",
+    "react",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "homepage": "https://github.com/Your-Majesty/code-configurations/tree/main/eslint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Your-Majesty/code-configurations.git"
+  },
+  "license": "MIT",
+  "author": "Dodi Raditya <dodi@yourmajesty.co>",
+  "main": "eslintrc.json",
+  "files": [
+    "eslintrc.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
