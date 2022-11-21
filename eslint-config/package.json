@@ -1,0 +1,44 @@
+{
+  "name": "@yourmajestyco/eslint-config",
+  "version": "0.0.1",
+  "description": "Basic eslint configuration package",
+  "keywords": [
+    "eslint",
+    "react",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "homepage": "https://github.com/Your-Majesty/code-configurations/tree/main/eslint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Your-Majesty/code-configurations.git"
+  },
+  "license": "MIT",
+  "author": "Dodi Raditya <dodi@yourmajesty.co>",
+  "main": "eslintrc.json",
+  "files": [
+    "eslintrc.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@types/eslint": "^8.4.10",
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
