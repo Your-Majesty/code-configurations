@@ -1,6 +1,6 @@
 {
   "name": "@yourmajestyco/tsconfig",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic TypeScript configuration package",
   "keywords": [
     "typings",
@@ -25,7 +25,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "peerDependencies": {
-    "typescript": "^4.9.3"
+  "peerDependencies": {},
+  "dependencies": {
+    "typescript": "^5.3.3"
   }
 }
